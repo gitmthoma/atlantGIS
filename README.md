@@ -1,7 +1,8 @@
 # atlantGIS
-### Datensätze zur Durchführung einer Brandherd-Risikobestimmung auf der fiktiven Insel AtlantGIS
+### Data sets for conducting an ignition risk assessment on the imaginary island of AtlantGIS.
 
-##### Das *repository* ist in drei Bereiche untergliedert: 
+
+##### The repository is divided into three sections:
 
 01_source_data
 - vector_source: 
