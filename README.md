@@ -7,7 +7,7 @@
 01_source_data
 - vector_source: 
 - raster_source: 
-- other_source:
+- maps:
 
 
 02_processed_data
