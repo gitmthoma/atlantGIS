@@ -5,9 +5,9 @@
 ##### The repository is divided into three sections:
 
 01_source_data
-- vector_source: 
-- raster_source: 
-- maps:
+- vector_source 
+- raster_source
+- maps_source
 
 
 02_processed_data
